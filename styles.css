@@ -1162,14 +1162,14 @@
 
 @font-face {
   font-family: "Cormorant Garamond";
-  src: url("https://chayenno.github.io/Portfolio-Notion/CormorantGaramond-Italic.ttf") format("ttf");
+  src: url("https://chayenno.github.io/Portfolio-Notion/CormorantGaramond-Regular.ttf") format("ttf");
   font-weight: 400;
   font-display: swap;
   font-style: normal;
 }
 @font-face {
   font-family: "Cormorant Garamond";
-  src: url("https://chayenno.github.io/Portfolio-Notion/CormorantGaramond-.ttf") format("ttf");
+  src: url("https://chayenno.github.io/Portfolio-Notion/CormorantGaramond-Italic.ttf") format("ttf");
   font-weight: 400;
   font-display: swap;
   font-style: normal;
